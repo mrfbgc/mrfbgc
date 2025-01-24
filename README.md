@@ -1,6 +1,5 @@
 # Mehmet Arif Bagci
-
-[**My Profile**](https://www.linkedin.com/in/mehmetarifbagci/) | [**LinkedIn**](https://www.linkedin.com/in/mehmetarifbagci/) | [**Contact**](arif.bagci@hotmail.com) | [**Gmail**](arif.bagci@hotmail.com)
+[**LinkedIn**](https://www.linkedin.com/in/mehmetarifbagci/) | [**Contact**](arif.bagci@hotmail.com) 
 
 Hi there! 👋 I am a master's candidate in Computational Engineering at Friedrich Alexander University Erlangen-Nürnberg. I am curious about computer vision, pattern recognition, image & signal processing.
 ---
