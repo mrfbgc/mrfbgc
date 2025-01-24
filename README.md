@@ -29,10 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/microsoft/azure-cognitive-services/main/icons/cognitive-services.svg" alt="Azure Cognitive Service" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/Microsoft/azure-devops-icons/main/Images/Microsoft-Azure-DevOps.svg" alt="Azure DevOps" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Azure_Machine_Learning_Logo.svg" alt="Azure Machine Learning Service" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Framework" width="40" height="40" />
 </p>
 
