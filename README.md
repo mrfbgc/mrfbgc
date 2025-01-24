@@ -1,4 +1,4 @@
-# Mehmet Arif Bagci
+### Mehmet Arif Bagci
 [**LinkedIn**](https://www.linkedin.com/in/mehmetarifbagci/) | [**Contact**](arif.bagci@hotmail.com) 
 
 Hi there! 👋 I am a master's candidate in Computational Engineering at Friedrich Alexander University Erlangen-Nürnberg. I am curious about computer vision, pattern recognition, image & signal processing.
@@ -17,19 +17,19 @@ Hi there! 👋 I am a master's candidate in Computational Engineering at Friedri
 
 ## Languages:
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" />
 </p>
 
 ---
 
 ## Tools and Technologies:
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" alt="Power BI" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40" />
 </p>
 
 
@@ -38,11 +38,11 @@ Hi there! 👋 I am a master's candidate in Computational Engineering at Friedri
 
 ## Libraries:
 <p align="left">
-  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt5" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-FF7200?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="PyQt5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" alt="OpenCV" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="Matplotlib" width="40" height="40" />
 </p>
 
 
