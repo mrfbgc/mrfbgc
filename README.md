@@ -28,7 +28,7 @@ Hi there! 👋 I am a master's candidate in Computational Engineering at Friedri
 ## Tools and Technologies:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" alt="Power BI" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40" />
 </p>
 
