@@ -1,7 +1,9 @@
 ### Mehmet Arif Bagci
 [**LinkedIn**](https://www.linkedin.com/in/mehmetarifbagci/) 
 #### *Hi there! 👋*  
-#### I am a master's candidate in Computational Engineering at Friedrich Alexander University Erlangen-Nürnberg. I am curious about computer vision, pattern recognition, image & signal processing.
+#### I am a Master’s student in Computational Engineering at Friedrich-Alexander-Universität Erlangen-Nürnberg, where my academic work focuses on machine learning, computer vision, and signal processing. In my current role as a Student Assistant, I work on maintaining the GUI of a project. Additionally, I work for enhancing the image quality by image sharpening methods. 
+
+#### I completed my Bachelor’s degree in Computer Engineering at Trakya University, where I developed a strong background in algorithms, image processing, and pattern recognition. My undergraduate thesis explored lane detection and tracking for advanced driver assistance systems, combining computer vision methods with simulation-based evaluation in the CARLA autonomous driving simulator. 
 
 ---
 
